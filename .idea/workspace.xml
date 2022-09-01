@@ -3,6 +3,73 @@
   <component name="ChangeListManager">
     <list default="true" id="16dd2099-8260-487d-966c-9d0b9053bcab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/AppInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/800px_COLOURBOX31235940.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/Education__28105_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/campus-graduation-ceremony-friends-RKKDN4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/college-campus-concept-vector-illustration-students-interacting-each-other-making-friends-university-tours-events-152638266.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/download (1) (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/download (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/download (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/hide_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/login_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/male_user_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/password_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/program_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/registration_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/shutdown_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/sipsewana_img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/assets/image/student_male_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/BOFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/BOFactory$BOType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/BOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/SuperBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/custom/AddRegistrationBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/custom/CourseBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/custom/Impl/AddRegistrationBOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/custom/Impl/CourseBOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/custom/Impl/RegistrationBOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/custom/Impl/StudentBOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/custom/RegistrationBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/business/custom/StudentBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/controller/CourseFormController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/controller/DashBoardFormController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/controller/LogInFormController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/controller/RegistrationFormController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/controller/StudentFormController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/CrudDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/Custom/CourseDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/Custom/Impl/CourseDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/Custom/Impl/RegistrationDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/Custom/Impl/StudentDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/Custom/ResgistrationDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/Custom/StudentDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/DAOFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/DAOFactory$DAOType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/DAOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/QueryDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dao/SuperDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dto/CourseDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dto/RegistrationDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/dto/StudentDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/entity/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/entity/Registration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/entity/SuperEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/hibernate.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/util/FactoryConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/view/CSS/StyleSheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/view/CourseForm.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/view/DashBoardForm.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/view/LogInForn.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/view/RegistrationForm.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/view/StudentForm.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/view/TM/CourseTM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/view/TM/RegistrationTM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sipsewana/view/TM/StudentTM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/image/800px_COLOURBOX31235940.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/image/campus-graduation-ceremony-friends-RKKDN4.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +158,7 @@
       <workItem from="1641103042539" duration="4578000" />
       <workItem from="1661948855175" duration="234000" />
       <workItem from="1661952027638" duration="1801000" />
-      <workItem from="1662006151312" duration="955000" />
+      <workItem from="1662006151312" duration="1511000" />
     </task>
     <servers />
   </component>
